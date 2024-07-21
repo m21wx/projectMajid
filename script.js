@@ -12,7 +12,12 @@
 		}
 		
 	})
-
+	if(localStorage.getItem('langPage')){
+		
+	}else{
+		localStorage.setItem('langPage','an')
+	
+	}
 	function localStorageLoang(){
 		
 		return lang = localStorage.getItem('langPage') || 'an';
