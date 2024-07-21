@@ -142,9 +142,9 @@
 				ul:'https://m21wx.github.io/profile-majid/'
 			},
 			{
-				title:'animation',
-				title_p:'الرسوم المتحركة',
-				dateTarget:'Website',
+				title:'الرسوم المتحركة',
+				title_p:' mouse',
+				dateTarget:'animation',
 				ul:'https://m21wx.github.io/animation-1'
 			},
 			
