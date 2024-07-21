@@ -109,7 +109,7 @@
 			titleAn : 'شريط التمرير'
 		},
 		{
-			titleEn : 'anmation',
+			titleEn : 'animation',
 			titleAn : 'الرسوم المتحركة'
 		},
 		{
@@ -140,6 +140,12 @@
 				title_p:'موقع يعرض مشاريع ',
 				dateTarget:'Website',
 				ul:'https://m21wx.github.io/profile-majid/'
+			},
+			{
+				title:'animation',
+				title_p:'الرسوم المتحركة',
+				dateTarget:'Website',
+				ul:'https://m21wx.github.io/animation-1'
 			},
 			
 
