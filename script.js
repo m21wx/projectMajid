@@ -148,6 +148,12 @@
 				ul:'https://m21wx.github.io/animation-1'
 			},
 			{
+				title:'الرسوم المتحركة',
+				title_p:' mousemove',
+				dateTarget:'animation',
+				ul:'https://m21wx.github.io/animation-2/'
+			},
+			{
 				title:'Exercises-1',
 				title_p:' hover Link',
 				dateTarget:'Exercises',
