@@ -165,6 +165,12 @@
 				dateTarget:'Exercises',
 				ul:'https://m21wx.github.io/exercises-1/'
 			},
+			{
+				title:'slider Img',
+				title_p:'click ',
+				dateTarget:'slider',
+				ul:'https://m21wx.github.io/progectSlider-1/'
+			},
 		
 			
 
