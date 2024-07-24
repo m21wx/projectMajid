@@ -172,10 +172,16 @@
 				ul:'https://m21wx.github.io/progectSlider-1/'
 			},
 			{
-				title:'slider Img-2',
+				title:'slider',
 				title_p:'click ',
 				dateTarget:'slider',
 				ul:'https://m21wx.github.io/slider-2/'
+			},
+			{
+				title:'slider ',
+				title_p:'click ',
+				dateTarget:'slider',
+				ul:'https://m21wx.github.io/slider-3/'
 			},
 			
 
