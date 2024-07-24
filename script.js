@@ -166,15 +166,20 @@
 				ul:'https://m21wx.github.io/exercises-1/'
 			},
 			{
-				title:'slider Img',
+				title:'شريط التمرير',
 				title_p:'click ',
 				dateTarget:'slider',
 				ul:'https://m21wx.github.io/progectSlider-1/'
 			},
-		
+			{
+				title:'slider Img-2',
+				title_p:'click ',
+				dateTarget:'slider',
+				ul:'https://m21wx.github.io/slider-2/'
+			},
 			
 
-			
+			https://m21wx.github.io/slider-2/
 		];
 	//********************
 
