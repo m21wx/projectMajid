@@ -183,6 +183,12 @@
 				dateTarget:'slider',
 				ul:'https://m21wx.github.io/slider-3/'
 			},
+			{
+				title:'slider ',
+				title_p:'click|setInterval',
+				dateTarget:'slider',
+				ul:'https://m21wx.github.io/slider-4/'
+			},
 			
 
 		
