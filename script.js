@@ -190,7 +190,13 @@
 				ul:'https://m21wx.github.io/slider-4/'
 			},
 			
-
+			{
+				title:'resume ',
+				title_p:'سيرة ذاتية',
+				dateTarget:'resume',
+				ul:'https://m21wx.github.io/resume-1/'
+			},
+			
 		
 		];
 	//********************
