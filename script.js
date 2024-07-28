@@ -202,6 +202,13 @@
 				dateTarget:'scroll',
 				ul:'https://m21wx.github.io/scroll-1/'
 			},
+		//***************form ******************
+			{
+				title:'form ',
+				title_p:'نموذج',
+				dateTarget:'form',
+				ul:'https://m21wx.github.io/form-1/'
+			},
 			
 			
 
