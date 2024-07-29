@@ -171,6 +171,7 @@
 				dateTarget:'slider',
 				ul:'https://m21wx.github.io/progectSlider-1/'
 			},
+		//*************** Start slider ******************
 			{
 				title:'slider',
 				title_p:'click ',
@@ -189,7 +190,14 @@
 				dateTarget:'slider',
 				ul:'https://m21wx.github.io/slider-4/'
 			},
-			
+			{
+				title:'slider ',
+				title_p:'slider 3D ',
+				dateTarget:'slider',
+				ul:'https://m21wx.github.io/slider-5/'
+			},
+		
+			//*************** End slider ******************
 			{
 				title:'resume ',
 				title_p:'سيرة ذاتية',
