@@ -210,14 +210,22 @@
 				dateTarget:'scroll',
 				ul:'https://m21wx.github.io/scroll-1/'
 			},
-		//***************form ******************
+			//*************** Start form ******************
 			{
 				title:'form ',
 				title_p:'نموذج',
 				dateTarget:'form',
 				ul:'https://m21wx.github.io/form-1/'
 			},
-			
+			//*************** End form ******************
+			//*************** Start Api ******************
+			{
+				title:'API ',
+				title_p:'القرآن الكريم',
+				dateTarget:'API',
+				ul:'https://m21wx.github.io/api-1/'
+			},
+			//*************** End form *******************
 			
 
 
