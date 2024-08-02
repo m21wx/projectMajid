@@ -159,6 +159,7 @@
 				dateTarget:'animation',
 				ul:'https://m21wx.github.io/animation-3/'
 			},
+			//*************** Start Exercises ******************
 			{
 				title:'Exercises-1',
 				title_p:' hover Link',
@@ -166,12 +167,22 @@
 				ul:'https://m21wx.github.io/exercises-1/'
 			},
 			{
+				title:'Exercises-2',
+				title_p:' mousemove',
+				dateTarget:'Exercises',
+				ul:'https://m21wx.github.io/exercises-2/'
+			},
+		
+			//*************** End Exercises ******************
+		
+			//*************** Start slider ******************
+			{
 				title:'شريط التمرير',
 				title_p:'click ',
 				dateTarget:'slider',
 				ul:'https://m21wx.github.io/progectSlider-1/'
 			},
-		//*************** Start slider ******************
+	
 			{
 				title:'slider',
 				title_p:'click ',
@@ -198,18 +209,22 @@
 			},
 		
 			//*************** End slider ******************
+			//*************** Start resume ******************
 			{
 				title:'resume ',
 				title_p:'سيرة ذاتية',
 				dateTarget:'resume',
 				ul:'https://m21wx.github.io/resume-1/'
 			},
+			//*************** End resume ******************
+			//*************** Start scroll ******************
 			{
 				title:'scroll ',
 				title_p:'التمرير',
 				dateTarget:'scroll',
 				ul:'https://m21wx.github.io/scroll-1/'
 			},
+			//*************** End scroll ******************
 			//*************** Start form ******************
 			{
 				title:'form ',
@@ -237,7 +252,7 @@
 
 		
 		];
-	//********************
+
 
 	let asideUl = document.querySelector('.asideUl')
 	function localArray(){
