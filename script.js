@@ -158,6 +158,19 @@
 				title_p:'click',
 				dateTarget:'animation',
 				ul:'https://m21wx.github.io/animation-3/'
+				
+			},
+			{
+				title:'bubbles',
+				title_p:' mousemove',
+				dateTarget:'animation',
+				ul:'https://m21wx.github.io/exercises-2/'
+			},
+			{
+				title:'bubbles',
+				title_p:' mousemove',
+				dateTarget:'animation',
+				ul:'https://m21wx.github.io/-animation-4/'
 			},
 			//*************** Start Exercises ******************
 			{
@@ -172,7 +185,12 @@
 				dateTarget:'Exercises',
 				ul:'https://m21wx.github.io/exercises-2/'
 			},
-		
+			{
+				title:'Exercises-3',
+				title_p:' mousemove',
+				dateTarget:'Exercises',
+				ul:'https://m21wx.github.io/-animation-4/'
+			},
 			//*************** End Exercises ******************
 		
 			//*************** Start slider ******************
