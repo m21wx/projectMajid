@@ -167,7 +167,7 @@
 				ul:'https://m21wx.github.io/exercises-2/'
 			},
 			{
-				title:'bubbles',
+				title:'الرسوم المتحركة',
 				title_p:' mousemove',
 				dateTarget:'animation',
 				ul:'https://m21wx.github.io/-animation-4/'
@@ -265,7 +265,14 @@
 				ul:'https://m21wx.github.io/github-api-1/'
 			},
 			//*************** End form *******************
-			
+			//*************** Start game *******************
+			{
+				title:'game ',
+				title_p:'لعبة',
+				dateTarget:'game',
+				ul:'https://m21wx.github.io/projectGame-1/'
+			},
+			//*************** End game *******************
 
 
 		
