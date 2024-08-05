@@ -272,6 +272,12 @@
 				dateTarget:'game',
 				ul:'https://m21wx.github.io/projectGame-1/'
 			},
+			{
+				title:'game ',
+				title_p:'memory',
+				dateTarget:'game',
+				ul:'https://m21wx.github.io/-game-3-memory/'
+			},
 			//*************** End game *******************
 
 
