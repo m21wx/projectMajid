@@ -284,6 +284,12 @@
 				dateTarget:'game',
 				ul:'https://m21wx.github.io/-game-3-memory/'
 			},
+			{
+				title:'game ',
+				title_p:'Tic-Tac-Toe',
+				dateTarget:'game',
+				ul:'https://m21wx.github.io/game-4-Tic-Tac/'
+			},
 			//*************** End game *******************
 
 
