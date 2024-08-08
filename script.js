@@ -256,6 +256,12 @@
 				dateTarget:'form',
 				ul:'https://m21wx.github.io/form-1/'
 			},
+			{
+				title:'حساب العمر ',
+				title_p:' احسب عمر ',
+				dateTarget:'form',
+				ul:'https://m21wx.github.io/age-calculation/'
+			},
 			//*************** End form ******************
 			//*************** Start Api ******************
 			{
