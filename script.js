@@ -215,6 +215,13 @@
 				dateTarget:'Exercises',
 				ul:'https://m21wx.github.io/navBar-4/'
 			},
+			{
+				title:'navBar-5',
+				title_p:' تمارين',
+				dateTarget:'Exercises',
+				ul:'https://m21wx.github.io/navBar-5/'
+			},
+		
 			//*************** End Exercises ******************
 		
 			//*************** Start slider ******************
