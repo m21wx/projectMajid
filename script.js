@@ -141,6 +141,15 @@
 				dateTarget:'Website',
 				ul:'https://m21wx.github.io/profile-majid/'
 			},
+			//*************** Start portfolio ******************
+				{
+					title:'معرض أعمال',
+					title_p:'معرض أعمال ',
+					dateTarget:'portfolio',
+					ul:'https://m21wx.github.io/portfolio-1/'
+				},
+			//*************** End portfolio ********************
+			//*************** Start animation ******************
 			{
 				title:'الرسوم المتحركة',
 				title_p:' mouse',
@@ -172,6 +181,7 @@
 				dateTarget:'animation',
 				ul:'https://m21wx.github.io/-animation-4/'
 			},
+			//*************** End animation ******************
 			//*************** Start Exercises ******************
 			{
 				title:'Exercises-1',
