@@ -231,6 +231,12 @@
 				dateTarget:'Exercises',
 				ul:'https://m21wx.github.io/navBar-5/'
 			},
+			{
+				title:'تمارين',
+				title_p:' تمارين',
+				dateTarget:'Exercises',
+				ul:'https://m21wx.github.io/exercises-3/'
+			},
 		
 			//*************** End Exercises ******************
 		
