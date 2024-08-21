@@ -237,6 +237,13 @@
 				dateTarget:'Exercises',
 				ul:'https://m21wx.github.io/exercises-3/'
 			},
+			{
+				title:'exercises-4',
+				title_p:' تمارين',
+				dateTarget:'Exercises',
+				ul:'https://m21wx.github.io/exercises-4/'
+			},
+		
 		
 			//*************** End Exercises ******************
 		
