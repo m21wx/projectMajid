@@ -243,6 +243,12 @@
 				dateTarget:'Exercises',
 				ul:'https://m21wx.github.io/exercises-4/'
 			},
+			{
+				title:'exercises-5',
+				title_p:' الوقت والتاريخ',
+				dateTarget:'Exercises',
+				ul:'https://m21wx.github.io/exercises-5/'
+			},
 		
 		
 			//*************** End Exercises ******************
