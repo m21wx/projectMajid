@@ -249,7 +249,12 @@
 				dateTarget:'Exercises',
 				ul:'https://m21wx.github.io/exercises-5/'
 			},
-		
+			{
+				title:'exercises-6',
+				title_p:' touchmove',
+				dateTarget:'Exercises',
+				ul:'https://m21wx.github.io/exercises-6/'
+			},		
 		
 			//*************** End Exercises ******************
 		
